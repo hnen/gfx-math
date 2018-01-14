@@ -1,0 +1,7 @@
+[package]
+name = "gfx-math"
+version = "0.1.0"
+authors = ["Harri Hätinen <hhatinen@gmail.com>"]
+
+[dependencies]
+
